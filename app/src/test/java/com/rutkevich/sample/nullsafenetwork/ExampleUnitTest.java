@@ -1,4 +1,4 @@
-package com.rutkevich.sample.base;
+package com.rutkevich.sample.nullsafenetwork;
 
 import org.junit.Test;
 
